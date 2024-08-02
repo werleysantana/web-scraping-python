@@ -1,6 +1,60 @@
-env/
-*.pyc
+# Byte-compiled / optimized / DLL files
 __pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Packages
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+bin/
+var/
+sdist/
+develop-eggs/
+.installed.cfg
+lib/
+lib64/
+__pycache__/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Environments
 .env
-.env.local
-data/
+venv/
+ENV/
+env.bak/
+env/
+
+# VS Code
+.vscode/
+
+# Pytest
+.pytest_cache/
+
+# mypy
+.mypy_cache/
+
+# Django
+*.log
+*.pot
+*.pyc
+
+# macOS
+.DS_Store
+
+# Docker
+*.swp
+*.pid
+*.log
+*.bak
+
+# Redis
+dump.rdb
