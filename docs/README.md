@@ -104,5 +104,5 @@ No projeto, há também um módulo na qual implementamos testes para os principa
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/web-scraping-python.git
+git clone https://github.com/werleysantana/web-scraping-python.git
 cd web-scraping-python
