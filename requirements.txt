@@ -1,0 +1,8 @@
+requests
+beautifulsoup4
+selenium
+pymongo
+youtube-transcript-api
+webdriver-manager
+python-dotenv
+redis
